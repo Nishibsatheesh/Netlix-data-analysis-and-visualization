@@ -4,8 +4,7 @@ dataset. We'll use Python libraries like **Pandas**, **Matplotlib**, and **Seabo
 through the project. The goal is to explore the dataset, derive insights, and prepare
 for potential machine learning tasks.
 
-*Click here for the dataset used for this project* [Netflix raw dataset]([https://drive.google.com/file/d/1LMXbfeuFRs4EBygfVtHsECou-4NEf4Y0/view?usp=sharing](https://drive.google.com/file/d/1QKXpZU-Rr6ElVizR8MgCsG39ul5CHapV/view?usp=sharing)
-
+*Click here for the dataset used for this project* [Netflix raw dataset](https://drive.google.com/file/d/1LMXbfeuFRs4EBygfVtHsECou-4NEf4Y0/view?usp=sharing](https://drive.google.com/file/d/1QKXpZU-Rr6ElVizR8MgCsG39ul5CHapV/view?usp=sharing )
 Step 1: Import Required Libraries
 
 Step 2: Load the Dataset
