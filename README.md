@@ -7,9 +7,13 @@ for potential machine learning tasks.
 *Click here for the dataset used for this project* [Netflix raw dataset](https://drive.google.com/file/d/1LMXbfeuFRs4EBygfVtHsECou-4NEf4Y0/view?usp=sharing)
 
 Step 1: Import Required Libraries
+
 Step 2: Load the Dataset
+
 Step 3: Data Cleaning
+
 Step 4: Exploratory Data Analysis (EDA)
+
 Step 5: Conclusion and Insights
 
 # Project highlights
